@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.834dbb5b.chunk.js",
-    "main.js.map": "/static/js/main.834dbb5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.27a3a643.js",
-    "runtime-main.js.map": "/static/js/runtime-main.27a3a643.js.map",
-    "static/js/2.663ae1e8.chunk.js": "/static/js/2.663ae1e8.chunk.js",
-    "static/js/2.663ae1e8.chunk.js.map": "/static/js/2.663ae1e8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.663ae1e8.chunk.js.LICENSE.txt": "/static/js/2.663ae1e8.chunk.js.LICENSE.txt"
+    "main.js": "/posts-app/static/js/main.834dbb5b.chunk.js",
+    "main.js.map": "/posts-app/static/js/main.834dbb5b.chunk.js.map",
+    "runtime-main.js": "/posts-app/static/js/runtime-main.293425b4.js",
+    "runtime-main.js.map": "/posts-app/static/js/runtime-main.293425b4.js.map",
+    "static/js/2.663ae1e8.chunk.js": "/posts-app/static/js/2.663ae1e8.chunk.js",
+    "static/js/2.663ae1e8.chunk.js.map": "/posts-app/static/js/2.663ae1e8.chunk.js.map",
+    "index.html": "/posts-app/index.html",
+    "static/js/2.663ae1e8.chunk.js.LICENSE.txt": "/posts-app/static/js/2.663ae1e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27a3a643.js",
+    "static/js/runtime-main.293425b4.js",
     "static/js/2.663ae1e8.chunk.js",
     "static/js/main.834dbb5b.chunk.js"
   ]
